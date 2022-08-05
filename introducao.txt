@@ -16,4 +16,3 @@
 
 *Os valores estao em uma posição da memoria e usamos o simbolo "&" para saber
 
--->codigo:valor_e_endereco.c
