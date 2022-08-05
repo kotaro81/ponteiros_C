@@ -1,0 +1,19 @@
+------Estudo sobre ponteiros baseado no site C progressivo-------
+
+-> O que sao ponteiros em C?
+
+*Ponteiro é um tipo de dado que serve para indicar,ou armazenar, um endereço de memória
+
+*Cada trecho da memoria em um computador tem um endereço unico.Nao há dois bits que tenham o mesmo endereço de memoria
+
+*Um ponteiro nao é um inteiro,um double,um char ou um float,ele é um tipo de dado que armazena o endereço em que esses tipos estao alocados
+
+*Na realidade,ponteiros sao um tipo de abstração criado para facilitar o trabalho em baixo nivel,ou seja, mexer diretamente com a memoria do computador
+
+-> Como saber o endereço de memória de uma variavel?
+
+*Sempre que declaramos uma variavel,estamos trabalhando com o seu valor
+
+*Os valores estao em uma posição da memoria e usamos o simbolo "&" para saber
+
+-->codigo:valor_e_endereco.c
