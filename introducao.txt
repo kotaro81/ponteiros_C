@@ -1,4 +1,4 @@
-------Estudo sobre ponteiros baseado no site C progressivo,apostilas de universidades,entre outras fontes-------
+------Estudo sobre ponteiros baseado no site C progressivo,livro C completo e total,apostilas de universidades,entre outras fontes-------
 
 -> O que sao ponteiros em C?
 
